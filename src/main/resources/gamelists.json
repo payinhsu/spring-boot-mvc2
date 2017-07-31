@@ -1,0 +1,1010 @@
+[
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 4,
+   "gid": "wildmelon",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 5,
+   "gid": "luckydiamonds",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 40,
+   "gid": "jollyroger",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 43,
+   "gid": "fruitbonanza",
+   "description": "5-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 99,
+   "gid": "aceofspades",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 105,
+   "gid": "belloffortune",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 106,
+   "gid": "speedcash",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 107,
+   "gid": "giftshop",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 108,
+   "gid": "goldengoal",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 193,
+   "gid": "catsandcash",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 194,
+   "gid": "copsnrobbers",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 196,
+   "gid": "fortuneteller",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 197,
+   "gid": "photosafari",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 198,
+   "gid": "spacerace",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 199,
+   "gid": "5xmagic",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 200,
+   "gid": "irishgold",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 225,
+   "gid": "enchantedmeadow",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 237,
+   "gid": "richesofra",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 238,
+   "gid": "dragonship",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 241,
+   "gid": "pearllagoon",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 242,
+   "gid": "jewelbox",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 244,
+   "gid": "gunslinger",
+   "description": "5-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 243,
+   "gid": "aztecidols",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 245,
+   "gid": "myth",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 246,
+   "gid": "goldtrophy2",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 250,
+   "gid": "wildblood",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 251,
+   "gid": "leprechaungoesegypt",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 253,
+   "gid": "ninjafruits",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 259,
+   "gid": "enchantedcrystals",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 262,
+   "gid": "energoonz",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 277,
+   "gid": "chinesenewyear",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 278,
+   "gid": "ladyoffortune",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 282,
+   "gid": "pearlsofindia",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 283,
+   "gid": "mysteryjoker",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 284,
+   "gid": "crazycows",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 285,
+   "gid": "goldenticket",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 286,
+   "gid": "gemix",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 287,
+   "gid": "towerquest",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 288,
+   "gid": "merryxmas",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 290,
+   "gid": "goldenlegend",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 291,
+   "gid": "pimped",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 292,
+   "gid": "spinparty",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 293,
+   "gid": "eastereggs",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 294,
+   "gid": "wildnorth",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 297,
+   "gid": "eyeofthekraken",
+   "description": "3x3 Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 298,
+   "gid": "masquerade",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 300,
+   "gid": "cloudquest",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 301,
+   "gid": "aztecprincess",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 302,
+   "gid": "wizardofgems",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 303,
+   "gid": "grimmuerto",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 304,
+   "gid": "sambacarnival",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 305,
+   "gid": "happyhalloween",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 307,
+   "gid": "firejoker",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 309,
+   "gid": "christmasjoker",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 310,
+   "gid": "bookofdead",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 311,
+   "gid": "sailsofgold",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Slots",
+   "gameId": 312,
+   "gid": "goldencaravan",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 11,
+   "gid": "minibaccarat",
+   "description": "Table Game"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 31,
+   "gid": "europeanroulette",
+   "description": "Roulette"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 32,
+   "gid": "englishroulette",
+   "description": "Roulette"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 33,
+   "gid": "frenchroulette",
+   "description": "Roulette"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 34,
+   "gid": "beatme",
+   "description": "Table Game"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 35,
+   "gid": "casinostudpoker",
+   "description": "Progressive Jackpot Table Game"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 52,
+   "gid": "blackjackmh",
+   "description": "BlackJack"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 53,
+   "gid": "europeanblackjackmh",
+   "description": "BlackJack"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 54,
+   "gid": "doubleexposureblackjackmh",
+   "description": "BlackJack"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 55,
+   "gid": "singledeckblackjackmh",
+   "description": "BlackJack"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 57,
+   "gid": "casinoholdem",
+   "description": "Table Game"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 58,
+   "gid": "paigowpoker",
+   "description": "Table Game"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Table Games",
+   "gameId": 82,
+   "gid": "frenchroulettelp",
+   "description": "Roulette La Partage"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Poker",
+   "gameId": 269,
+   "gid": "jacksorbetter",
+   "description": "Video Poker"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Poker",
+   "gameId": 270,
+   "gid": "deuceswild",
+   "description": "Video Poker"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Poker",
+   "gameId": 271,
+   "gid": "jokerpoker",
+   "description": "Video Poker"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Video Poker",
+   "gameId": 276,
+   "gid": "jackpotpoker",
+   "description": "Video Poker"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Other Desktop Games",
+   "gameId": 93,
+   "gid": "scratchahoy",
+   "description": "Scratch Card"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Other Desktop Games",
+   "gameId": 94,
+   "gid": "holeinone",
+   "description": "Scratch Card"
+ },
+ {
+   "type": "Desktop Game",
+   "category": "Other Desktop Games",
+   "gameId": 235,
+   "gid": "triplechancehilo",
+   "description": "Fixed Odds"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 318,
+   "gid": "moneywheel",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100004,
+   "gid": "wildmelonmobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100005,
+   "gid": "luckydiamondsmobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100040,
+   "gid": "jollyrogermobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100099,
+   "gid": "aceofspadesmobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100105,
+   "gid": "belloffortunemobile",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100106,
+   "gid": "speedcashmobile",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100107,
+   "gid": "giftshopmobile",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100108,
+   "gid": "goldengoalmobile",
+   "description": "3-Reel Progressive Jackpot Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100196,
+   "gid": "fortunetellermobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100199,
+   "gid": "5xmagicmobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100200,
+   "gid": "irishgoldmobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100225,
+   "gid": "enchantedmeadowmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100237,
+   "gid": "richesoframobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100238,
+   "gid": "dragonshipmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100241,
+   "gid": "pearllagoonmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100242,
+   "gid": "jewelboxmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100243,
+   "gid": "aztecidolsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100245,
+   "gid": "mythmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100246,
+   "gid": "goldtrophy2mobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100250,
+   "gid": "wildbloodmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100251,
+   "gid": "leprechaungoesegyptmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100253,
+   "gid": "ninjafruitsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100259,
+   "gid": "enchantedcrystalsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100262,
+   "gid": "energoonzmobile",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100277,
+   "gid": "chinesenewyearmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100278,
+   "gid": "ladyoffortunemobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100282,
+   "gid": "pearlsofindiamobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100283,
+   "gid": "mysteryjokermobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100284,
+   "gid": "crazycowsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100285,
+   "gid": "goldenticketmobile",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100286,
+   "gid": "gemixmobile",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100287,
+   "gid": "towerquestmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100288,
+   "gid": "merryxmasmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100290,
+   "gid": "goldenlegendmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100291,
+   "gid": "pimpedmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100292,
+   "gid": "spinpartymobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100293,
+   "gid": "eastereggsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100294,
+   "gid": "wildnorthmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100297,
+   "gid": "eyeofthekrakenmobile",
+   "description": "3x3 Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100298,
+   "gid": "masquerademobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100300,
+   "gid": "cloudquestmobile",
+   "description": "Grid Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100302,
+   "gid": "wizardofgemsmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100303,
+   "gid": "grimmuertomobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100304,
+   "gid": "sambacarnivalmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100305,
+   "gid": "happyhalloweenmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100307,
+   "gid": "firejokermobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100309,
+   "gid": "christmasjokermobile",
+   "description": "3-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100310,
+   "gid": "bookofdeadmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100311,
+   "gid": "sailsofgoldmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Slots",
+   "gameId": 100312,
+   "gid": "goldencaravanmobile",
+   "description": "5-Reel Slot"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100011,
+   "gid": "minibaccaratmobile",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100031,
+   "gid": "europeanroulettemobile",
+   "description": "Roulette"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100034,
+   "gid": "beatmemobile",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100035,
+   "gid": "casinostudpokermobile",
+   "description": "Progressive Jackpot Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100052,
+   "gid": "blackjackmhmobile",
+   "description": "BlackJack"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100057,
+   "gid": "casinoholdemmobile",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100058,
+   "gid": "paigowpokermobile",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Table Games",
+   "gameId": 100318,
+   "gid": "moneywheelmobile",
+   "description": "Table Game"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Poker",
+   "gameId": 100269,
+   "gid": "jacksorbettermobile",
+   "description": "Video Poker"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Poker",
+   "gameId": 100270,
+   "gid": "deuceswildmobile",
+   "description": "Video Poker"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Poker",
+   "gameId": 100271,
+   "gid": "jokerpokermobile",
+   "description": "Video Poker"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Video Poker",
+   "gameId": 100276,
+   "gid": "jackpotpokermobile",
+   "description": "Video Poker"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Other Mobile Games",
+   "gameId": 100093,
+   "gid": "scratchahoymobile",
+   "description": "Scratch Card"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Other Mobile Games",
+   "gameId": 100094,
+   "gid": "holeinonemobile",
+   "description": "Scratch Card"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Other Mobile Games",
+   "gameId": 100235,
+   "gid": "triplechancehilomobile",
+   "description": "Fixed Odds"
+ },
+ {
+   "type": "HTML5 Game",
+   "category": "Other Mobile Games",
+   "gameId": 100239,
+   "gid": "kenomobile",
+   "description": "Fixed Odds"
+ }
+]

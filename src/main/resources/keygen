@@ -1,0 +1,5 @@
+# 產生 ssl rsa private key
+keytool -genkey -alias sslkey -keyalg RSA -dname "CN=localhost, OU=poseitech, O=poseitech, L=Taipei, S=Taipei, C=TW" -keypass poseitech -storetype PKCS12 -storepass poseitech -keystore ./ssl.p12 -keysize 2048 -validity 3650 -provider org.bouncycastle.jce.provider.BouncyCastleProvider
+
+# 列出 金鑰庫中的 PKCS12 格式的金鑰
+keytool -list -keystore ssl.p12 -storetype PKCS12 -provider org.bouncycastle.jce.provider.BouncyCastleProvider
